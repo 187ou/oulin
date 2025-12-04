@@ -10,8 +10,13 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.2",
+    "@vue/runtime-core": "^3.5.25",
     "less": "^4.4.2",
     "typescript": "^5.9.3",
+    "unplugin-vue-define-options": "^3.1.1",
+    "vite": "^7.2.6",
+    "vite-plugin-dts": "1.4.1",
     "vue": "^3.5.25"
   }
 }

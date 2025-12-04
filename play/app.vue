@@ -1,11 +1,8 @@
-<script setup lang="ts">
-
-</script>
-
 <template>
-  <div>启动测试</div>
+  <div>
+    <Button type="primary">主要按钮</Button>
+  </div>
 </template>
-
-<style scoped>
-
-</style>
+<script lang="ts" setup>
+import { Button } from "@oulin/components";
+</script>
